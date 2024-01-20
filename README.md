@@ -1,2 +1,2 @@
 # scrolling-effect
-Parallax Scrolling Effect
+Parallax Scrolling Effect Redesign
